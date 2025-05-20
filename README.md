@@ -1,2 +1,2 @@
 # Amit-first
-This is my first github repo
+This is my first git repo
